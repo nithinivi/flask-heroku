@@ -9,3 +9,5 @@ env
 .#*
 >>>>>>> 285d49f... gitignore
 >>>>>>> develop
+.idea/
+migrations/
