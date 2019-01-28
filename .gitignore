@@ -12,3 +12,4 @@ env
 .idea/
 migrations/
 *.org
+.idea
